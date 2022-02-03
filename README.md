@@ -2,7 +2,7 @@
 
 ![Build Status](https://travis-ci.org/Payum/Payum.png?branch=master)
 
-Java console application for **School Management System**
+Java Graphical User Interface application for **School Management System**
 
 1) Student management
 2) Employee management
