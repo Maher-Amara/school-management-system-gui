@@ -17,7 +17,6 @@ Java Graphical User Interface application for **School Management System**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 # Acknowledgements:
-
 The work in this project was completed as part of the curriculum for [Polytechnic School of Sousse](https://www.polytecsousse.tn/)
 
 <p align="center">
